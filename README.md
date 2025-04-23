@@ -1,1 +1,1 @@
-# Parcial
+# el proyecto se testea atraves de un swagger en la http://localhost:8081 la credenciales con name:Admin contraseña:Admin desde ahi se realizan las pruebas de los controladores 
